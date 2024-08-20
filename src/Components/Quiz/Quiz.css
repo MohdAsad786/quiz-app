@@ -47,12 +47,12 @@
     font-size: 15px;
 
 }
-.correct{
-    background: rgb(148, 160, 130);
-    border-color: green;
+.container .correct{
+    background: rgb(104, 161, 83);
+    border-color: rgb(46, 157, 201);
 }
-.incorrect{
-    background: #adac51;
-    background-color: red;
+.container .wrong{
+    background: #bc3535a5;
+    border-color: rgba(167, 125, 39, 0);
 
 }
